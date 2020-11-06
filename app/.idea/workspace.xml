@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6986a16b-2ca0-45a0-bae1-351e6f0396a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_29" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="candidate" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fbRPa7m7UTLVQBqlq4UliA26Bl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-03T20:02:03.020Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="com.onefootball.data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6986a16b-2ca0-45a0-bae1-351e6f0396a1" name="Default Changelist" comment="" />
+      <created>1596484782999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596484782999</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add some of the required app dependencies">
+      <created>1596609761758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596609761758</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add app data layer&#10;&#10;  - data layer composed of repository which control data flow and provide single source of data to the lower layers &#10;  - local data source save and retrieved data from database (TO DO)&#10;  - I considered news.json file as a fake remote Data source it, reads file from asset and provide it to repository.">
+      <created>1596610550157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596610550157</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update README.md">
+      <created>1597049825408</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597049825409</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add some of the required app dependencies" />
+    <MESSAGE value="Add app data layer&#10;&#10;  - data layer composed of repository which control data flow and provide single source of data to the lower layers &#10;  - local data source save and retrieved data from database (TO DO)&#10;  - I considered news.json file as a fake remote Data source it, reads file from asset and provide it to repository." />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1596607969643">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="476" y="152" key="#com.intellij.ide.util.MemberChooser/0.23.1440.816@0.23.1440.816" timestamp="1596607969643" />
+    <state x="334" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596606943597">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="334" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.816@0.23.1440.816" timestamp="1596606943597" />
+    <state x="281" y="133" key="CommitChangelistDialog2" timestamp="1597049825248">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="-34" y="53" key="CommitChangelistDialog2/0.23.1440.816@0.23.1440.816" timestamp="1596610550022" />
+    <state x="281" y="133" key="CommitChangelistDialog2/0.23.1440.819@0.23.1440.819" timestamp="1597049825248" />
+    <state x="184" y="92" key="DiffContextDialog" timestamp="1597048091647">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="184" y="92" key="DiffContextDialog/0.23.1440.816@0.23.1440.816" timestamp="1596610167661" />
+    <state x="184" y="92" key="DiffContextDialog/0.23.1440.819@0.23.1440.819" timestamp="1597048091647" />
+    <state x="364" y="158" key="RollbackChangesDialog" timestamp="1597048078772">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="364" y="158" key="RollbackChangesDialog/0.23.1440.819@0.23.1440.819" timestamp="1597048078771" />
+    <state x="199" y="68" key="SettingsEditor" timestamp="1597660010694">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="199" y="68" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1597660010694" />
+    <state x="88" y="144" width="1195" height="610" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596609724925">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="88" y="144" width="1195" height="610" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.816@0.23.1440.816" timestamp="1596609724925" />
+    <state x="88" y="144" width="1195" height="612" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.819@0.23.1440.819" timestamp="1596596465359" />
+    <state x="368" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1597075534878">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="368" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.819@0.23.1440.819" timestamp="1597075534878" />
+    <state x="351" y="187" width="692" height="488" key="find.popup" timestamp="1597658155573">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="351" y="186" width="692" height="486" key="find.popup/0.23.1440.816@0.23.1440.816" timestamp="1596602377878" />
+    <state x="351" y="187" width="692" height="488" key="find.popup/0.23.1440.819@0.23.1440.819" timestamp="1597658155573" />
+  </component>
+</project>
